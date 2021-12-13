@@ -1,0 +1,12 @@
+div.author {
+  cursor: pointer;
+  display: flex;
+}
+
+div.author i {
+  font-size: 14px;
+}
+div.author p {
+  font-size: 14px;
+  margin-left: 10px;
+}

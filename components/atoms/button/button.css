@@ -1,0 +1,17 @@
+.button {
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: firebrick;
+  color: white;
+  border-radius: 3px;
+}
+
+.button:active {
+  transform: scale(0.98);
+}

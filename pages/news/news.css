@@ -1,0 +1,32 @@
+#news {
+  padding: 65px 5px 5px 5px;
+  box-sizing: border-box;
+}
+div.column1,
+div.row2 {
+  display: flex;
+}
+
+div.news-card {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 5px;
+}
+
+div.smarttv {
+  display: flex;
+}
+
+@media (max-width: 900px) {
+  div.column1 {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+@media (max-width: 760px) {
+  div.column1 {
+    flex-direction: column;
+  }
+}
+@media (max-width: 640px) {
+}
