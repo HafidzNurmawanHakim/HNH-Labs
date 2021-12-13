@@ -1,2 +1,2 @@
 # HNH-Labs
-Web berita, Project Gagal
+Web berita, Project Versi 1
